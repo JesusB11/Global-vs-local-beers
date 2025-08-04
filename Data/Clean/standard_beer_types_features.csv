@@ -1,0 +1,80 @@
+,beer_style,color,bitterness,alcohol
+0,Amber-Ale,Light brown,Moderate,Regular
+1,American-Amber-Lager,Gold,Moderate,Regular
+2,American-Barley-Wine,Light brown,High,Strong
+3,American-Black-Ale,Dark,High,Regular
+4,American-Brett,,,
+5,American-Brown-Ale,Light dark,Moderate,Light
+6,American-Cream-Ale,Gold,Low,Light
+7,American-Imperial-Porter,Dark,Moderate,Strong
+8,American-Imperial-Red-Ale,Light brown,High,Regular
+9,American-Imperial-Stout,Dark,High,Strong
+10,american-india-pale-ale,Gold,High,Regular
+11,American-Lager,Gold,Low,Light
+12,American-Pale-Ale,Gold,Moderate,Regular
+13,American-Sour,Light dark,,
+14,American-Stout,Dark,Moderate,Strong
+15,American-Style-Wheat-Wine-Ale,Gold,High,Strong
+16,American-Wheat,Gold,Moderate,Regular
+17,Baltic-Style-Porter,Dark,Moderate,Strong
+18,Barrel-Aged-Beer,Light dark,,
+19,Belgian-Style-Blonde-Ale,Gold,Moderate,Regular
+20,Belgian-Style-Dubbel,Light dark,Moderate,Regular
+21,Belgian-Style-Flanders,Light brown,Low,Strong
+22,Belgian-Style-Fruit-Lambic,,Low,Light
+23,Belgian-Style-Golden-Strong-Ale,Gold,Moderate,Strong
+24,belgian-style-lambic-gueuze,Gold,Low,Light
+25,Belgian-Style-Pale-Ale,Gold,Moderate,Regular
+26,Belgian-Style-Quadrupel,Light brown,Moderate,Regular
+27,Belgian-Style-Saison,Gold,Moderate,Regular
+28,Belgian-Style-Tripel,Gold,Moderate,Regular
+29,belgian-style-wit,Gold,Low,Regular
+30,Berliner-Style-Weisse,Gold,Low,Regular
+31,Blonde-Ale,Gold,Moderate,Light
+32,Bohemian-Style-Pilsener,Gold,Moderate,Light
+33,British-Style-Barley-Wine-Ale,Light brown,Moderate,Strong
+34,California-Common,Light brown,Moderate,Regular
+35,Chocolate-Beer,Dark,Moderate,Strong
+36,Coffee-Beer,Light dark,Moderate,Strong
+37,Contemporary-Gose,Gold,Low,Regular
+38,English-Style-Bitter,Gold,Moderate,Light
+39,English-Style-Brown-Ale,Light brown,Moderate,Regular
+40,English-Style-Brown-Porter,Light dark,Moderate,Regular
+41,english-style-india-pale-ale,Gold,Moderate,Regular
+42,english-style-dark-mild,Light dark,Low,Light
+43,English-Style-Oatmeal-Stout,Dark,Moderate,Strong
+44,English-Style-Old-Ale,Light dark,Moderate,Regular
+45,English-Style-Pale-Ale-(ESB),Light brown,Moderate,Regular
+46,English-Style-Sweet-Stout-(Milk-Stout),Dark,Moderate,Regular
+47,European-Style-Export,Gold,Moderate,Light
+48,biere-de-garde,Light brown,Moderate,Regular
+49,fruit-field-or-flavored,Light dark,Moderate,Strong
+50,german-style-brownaltbier,Light brown,Moderate,Regular
+51,German-Style-Bock,Light dark,Moderate,Regular
+52,German-Style-Doppelbock,Light dark,Moderate,Regular
+53,German-Style-Dunkel,Light brown,Moderate,Regular
+54,German-Style-Dunkelweizen,Light brown,Low,Regular
+55,German-Style-Hefeweizen,Gold,Low,Strong
+56,German-Style-Helles,Gold,Moderate,Regular
+57,German-Style-Kolsch,Gold,Moderate,Regular
+58,german-style-heller-bock-maibock,Gold,Moderate,Strong
+59,German-Style-Pilsener,Gold,Moderate,Regular
+60,German-Style-Schwarzbier,Light dark,Moderate,Regular
+61,German-Style-Weizenbock,Gold,Moderate,Strong
+62,gluten-free,Light dark,,
+63,Herb-and-Spice-Beer,Light dark,Moderate,Strong
+64,Honey-Beer,Light dark,High,Strong
+65,Imperial-India-Pale-Ale,Gold,High,Strong
+66,Irish-Style-Dry-Stout,Dark,Moderate,Regular
+67,irish-style-red,Light brown,Moderate,Light
+68,New-England-IPA,Gold,Moderate,Regular
+69,Pumpkin-Beer,Light dark,Moderate,Strong
+70,Robust-Porter,Dark,Moderate,Light
+71,Rye-Beer,Light dark,,
+72,scotch-ale-wee-heavy,Light dark,Moderate,Regular
+73,Scottish-Style-Ale,Light brown,Low,Regular
+74,Session-Beer,Dark,Moderate,Regular
+75,Smoke-Beer,,,
+76,Smoke-Porter,Light brown,Moderate,Regular
+77,Specialty-Beer,,High,Strong
+78,Vienna-Style-Lager,Light brown,Moderate,Regular
