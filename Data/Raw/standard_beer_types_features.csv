@@ -1,238 +1,81 @@
-,beer_style,color,bitterness,alcohol
-0,Amber-Ale,11-18,25-45 I,4.4-6.1
-1,Amber-Ale,11-18,25-45 I,4.4-6.1
-2,Amber-Ale,11-18,25-45 I,4.4-6.1
-3,American-Amber-Lager,6-14 ,18-30 I,4.8-5.4
-4,American-Amber-Lager,6-14 ,18-30 I,4.8-5.4
-5,American-Amber-Lager,6-14 ,18-30 I,4.8-5.4
-6,American-Barley-Wine,11-18,60-100 ,8.5-12.
-7,American-Barley-Wine,11-18,60-100 ,8.5-12.
-8,American-Barley-Wine,11-18,60-100 ,8.5-12.
-9,American-Black-Ale,34-38,50-70 I,6-7.5% 
-10,American-Black-Ale,34-38,50-70 I,6-7.5% 
-11,American-Black-Ale,34-38,50-70 I,6-7.5% 
-12,American-Brett,Varie,Varies-,Varies-
-13,American-Brett,Varie,Varies-,Varies-
-14,American-Brett,Varie,Varies-,Varies-
-15,American-Brown-Ale,15-26,25-45 I,4.2-6.3
-16,American-Brown-Ale,15-26,25-45 I,4.2-6.3
-17,American-Brown-Ale,15-26,25-45 I,4.2-6.3
-18,American-Cream-Ale,2-5 S,10-22 I,4.3-5.7
-19,American-Cream-Ale,2-5 S,10-22 I,4.3-5.7
-20,American-Cream-Ale,2-5 S,10-22 I,4.3-5.7
-21,American-Imperial-Porter,39-40,35-50 I,7-12%  
-22,American-Imperial-Porter,39-40,35-50 I,7-12%  
-23,American-Imperial-Porter,39-40,35-50 I,7-12%  
-24,American-Imperial-Red-Ale,10-17,55-85 I,8.0-10.
-25,American-Imperial-Red-Ale,10-17,55-85 I,8.0-10.
-26,American-Imperial-Red-Ale,10-17,55-85 I,8.0-10.
-27,American-Imperial-Stout,39-40,50-80 I,7-12%  
-28,American-Imperial-Stout,39-40,50-80 I,7-12%  
-29,American-Imperial-Stout,39-40,50-80 I,7-12%  
-30,american-india-pale-ale,6-12 ,50-70 I,6.3-7.5
-31,american-india-pale-ale,6-12 ,50-70 I,6.3-7.5
-32,american-india-pale-ale,6-12 ,50-70 I,6.3-7.5
-33,American-Lager,2-4 S,5-19 IB,4.1-5.1
-34,American-Lager,2-4 S,5-19 IB,4.1-5.1
-35,American-Lager,2-4 S,5-19 IB,4.1-5.1
-36,American-Pale-Ale,6-14 ,30-50 I,4.4-5.4
-37,American-Pale-Ale,6-14 ,30-50 I,4.4-5.4
-38,American-Pale-Ale,6-14 ,30-50 I,4.4-5.4
-39,American-Sour,1-40 ,Varies-,Varies-
-40,American-Sour,1-40 ,Varies-,Varies-
-41,American-Sour,1-40 ,Varies-,Varies-
-42,American-Stout,40-45,35-60 I,5.7-8.9
-43,American-Stout,40-45,35-60 I,5.7-8.9
-44,American-Stout,40-45,35-60 I,5.7-8.9
-45,American-Style-Wheat-Wine-Ale,5-15 ,45-85 I,8.5-12.
-46,American-Style-Wheat-Wine-Ale,5-15 ,45-85 I,8.5-12.
-47,American-Style-Wheat-Wine-Ale,5-15 ,45-85 I,8.5-12.
-48,American-Wheat,2-10 ,10-35 I,3.5-5.6
-49,American-Wheat,2-10 ,10-35 I,3.5-5.6
-50,American-Wheat,2-10 ,10-35 I,3.5-5.6
-51,Baltic-Style-Porter,39-40,35-40 I,7.6-9.3
-52,Baltic-Style-Porter,39-40,35-40 I,7.6-9.3
-53,Baltic-Style-Porter,39-40,35-40 I,7.6-9.3
-54,Barrel-Aged-Beer,1-40 ,Varies-,Varies-
-55,Barrel-Aged-Beer,1-40 ,Varies-,Varies-
-56,Barrel-Aged-Beer,1-40 ,Varies-,Varies-
-57,Belgian-Style-Blonde-Ale,4-7 S,15-30 I,6.3-7.9
-58,Belgian-Style-Blonde-Ale,4-7 S,15-30 I,6.3-7.9
-59,Belgian-Style-Blonde-Ale,4-7 S,15-30 I,6.3-7.9
-60,Belgian-Style-Dubbel,16-36,20-35 I,6.3-7.6
-61,Belgian-Style-Dubbel,16-36,20-35 I,6.3-7.6
-62,Belgian-Style-Dubbel,16-36,20-35 I,6.3-7.6
-63,Belgian-Style-Flanders,12-25,5-18 IB,4.8-6.6
-64,Belgian-Style-Flanders,12-25,5-18 IB,4.8-6.6
-65,Belgian-Style-Flanders,12-25,5-18 IB,4.8-6.6
-66,Belgian-Style-Fruit-Lambic,Varie,15-21 I,5.0-8.9
-67,Belgian-Style-Fruit-Lambic,Varie,15-21 I,5.0-8.9
-68,Belgian-Style-Fruit-Lambic,Varie,15-21 I,5.0-8.9
-69,Belgian-Style-Golden-Strong-Ale,3-10 ,20-50 I,7-11%  
-70,Belgian-Style-Golden-Strong-Ale,3-10 ,20-50 I,7-11%  
-71,Belgian-Style-Golden-Strong-Ale,3-10 ,20-50 I,7-11%  
-72,belgian-style-lambic-gueuze,6-13 ,9-23 IB,5.0-8.9
-73,belgian-style-lambic-gueuze,6-13 ,9-23 IB,5.0-8.9
-74,belgian-style-lambic-gueuze,6-13 ,9-23 IB,5.0-8.9
-75,Belgian-Style-Pale-Ale,6-12 ,20-30 I,4-6%  A
-76,Belgian-Style-Pale-Ale,6-12 ,20-30 I,4-6%  A
-77,Belgian-Style-Pale-Ale,6-12 ,20-30 I,4-6%  A
-78,Belgian-Style-Quadrupel,8-20 ,25-50 I,7.2-11.
-79,Belgian-Style-Quadrupel,8-20 ,25-50 I,7.2-11.
-80,Belgian-Style-Quadrupel,8-20 ,25-50 I,7.2-11.
-81,Belgian-Style-Saison,3-7 S,20-38 I,4.4-6.8
-82,Belgian-Style-Saison,3-7 S,20-38 I,4.4-6.8
-83,Belgian-Style-Saison,3-7 S,20-38 I,4.4-6.8
-84,Belgian-Style-Tripel,4-7 S,20-45 I,7.1-10.
-85,Belgian-Style-Tripel,4-7 S,20-45 I,7.1-10.
-86,Belgian-Style-Tripel,4-7 S,20-45 I,7.1-10.
-87,belgian-style-wit,2-4 S,10-17 I,4.8-5.6
-88,belgian-style-wit,2-4 S,10-17 I,4.8-5.6
-89,belgian-style-wit,2-4 S,10-17 I,4.8-5.6
-90,Berliner-Style-Weisse,2-4 S,3-6 IBU,2.8-3.4
-91,Berliner-Style-Weisse,2-4 S,3-6 IBU,2.8-3.4
-92,Berliner-Style-Weisse,2-4 S,3-6 IBU,2.8-3.4
-93,Blonde-Ale,3-7 S,15-25 I,4.1-5.1
-94,Blonde-Ale,3-7 S,15-25 I,4.1-5.1
-95,Blonde-Ale,3-7 S,15-25 I,4.1-5.1
-96,Bohemian-Style-Pilsener,3-7 S,30-45 I,4.1-5.1
-97,Bohemian-Style-Pilsener,3-7 S,30-45 I,4.1-5.1
-98,Bohemian-Style-Pilsener,3-7 S,30-45 I,4.1-5.1
-99,British-Style-Barley-Wine-Ale,14-22,40-60 I,8.5-12%
-100,British-Style-Barley-Wine-Ale,14-22,40-60 I,8.5-12%
-101,British-Style-Barley-Wine-Ale,14-22,40-60 I,8.5-12%
-102,California-Common,8-15 ,35-45 I,4.6-5.7
-103,California-Common,8-15 ,35-45 I,4.6-5.7
-104,California-Common,8-15 ,35-45 I,4.6-5.7
-105,Chocolate-Beer,12-50,15-40 I,2.5-12%
-106,Chocolate-Beer,12-50,15-40 I,2.5-12%
-107,Chocolate-Beer,12-50,15-40 I,2.5-12%
-108,Coffee-Beer,4-50 ,15-45 I,2.5-12%
-109,Coffee-Beer,4-50 ,15-45 I,2.5-12%
-110,Coffee-Beer,4-50 ,15-45 I,2.5-12%
-111,Contemporary-Gose,3-9 S,5-15 IB,4.4-5.4
-112,Contemporary-Gose,3-9 S,5-15 IB,4.4-5.4
-113,Contemporary-Gose,3-9 S,5-15 IB,4.4-5.4
-114,English-Style-Bitter,5-12 ,20-35 I,3-4.2% 
-115,English-Style-Bitter,5-12 ,20-35 I,3-4.2% 
-116,English-Style-Bitter,5-12 ,20-35 I,3-4.2% 
-117,English-Style-Brown-Ale,12-17,15-25 I,4-5.5% 
-118,English-Style-Brown-Ale,12-17,15-25 I,4-5.5% 
-119,English-Style-Brown-Ale,12-17,15-25 I,4-5.5% 
-120,English-Style-Brown-Porter,20-35,20-30 I,4.5-6% 
-121,English-Style-Brown-Porter,20-35,20-30 I,4.5-6% 
-122,English-Style-Brown-Porter,20-35,20-30 I,4.5-6% 
-123,english-style-india-pale-ale,6-14 ,35-63 I,5-7%  A
-124,english-style-india-pale-ale,6-14 ,35-63 I,5-7%  A
-125,english-style-india-pale-ale,6-14 ,35-63 I,5-7%  A
-126,english-style-dark-mild,17-34,10-24 I,3.2-4% 
-127,english-style-dark-mild,17-34,10-24 I,3.2-4% 
-128,english-style-dark-mild,17-34,10-24 I,3.2-4% 
-129,English-Style-Oatmeal-Stout,20-50,20-40 I,3.8-6% 
-130,English-Style-Oatmeal-Stout,20-50,20-40 I,3.8-6% 
-131,English-Style-Oatmeal-Stout,20-50,20-40 I,3.8-6% 
-132,English-Style-Old-Ale,12-30,30-65 I,6.3-9.1
-133,English-Style-Old-Ale,12-30,30-65 I,6.3-9.1
-134,English-Style-Old-Ale,12-30,30-65 I,6.3-9.1
-135,English-Style-Pale-Ale-(ESB),5-16 ,20-40 I,4.5-5.5
-136,English-Style-Pale-Ale-(ESB),5-16 ,20-40 I,4.5-5.5
-137,English-Style-Pale-Ale-(ESB),5-16 ,20-40 I,4.5-5.5
-138,English-Style-Sweet-Stout-(Milk-Stout),40-40,15-25 I,3-6%  A
-139,English-Style-Sweet-Stout-(Milk-Stout),40-40,15-25 I,3-6%  A
-140,English-Style-Sweet-Stout-(Milk-Stout),40-40,15-25 I,3-6%  A
-141,European-Style-Export,3-6 S,23-29 I,5.1-6.1
-142,European-Style-Export,3-6 S,23-29 I,5.1-6.1
-143,European-Style-Export,3-6 S,23-29 I,5.1-6.1
-144,biere-de-garde,7-16 ,20-30 I,4.4-8% 
-145,biere-de-garde,7-16 ,20-30 I,4.4-8% 
-146,biere-de-garde,7-16 ,20-30 I,4.4-8% 
-147,fruit-field-or-flavored,5-50 ,5-45 IB,2.5-12%
-148,fruit-field-or-flavored,5-50 ,5-45 IB,2.5-12%
-149,fruit-field-or-flavored,5-50 ,5-45 IB,2.5-12%
-150,german-style-brownaltbier,11-19,25-52 I,4.6-5.6
-151,german-style-brownaltbier,11-19,25-52 I,4.6-5.6
-152,german-style-brownaltbier,11-19,25-52 I,4.6-5.6
-153,German-Style-Bock,20-30,20-30 I,6.3-7.5
-154,German-Style-Bock,20-30,20-30 I,6.3-7.5
-155,German-Style-Bock,20-30,20-30 I,6.3-7.5
-156,German-Style-Doppelbock,12-30,17-27 I,6.6-7.9
-157,German-Style-Doppelbock,12-30,17-27 I,6.6-7.9
-158,German-Style-Doppelbock,12-30,17-27 I,6.6-7.9
-159,German-Style-Dunkel,15-17,16-25 I,4.8-5.3
-160,German-Style-Dunkel,15-17,16-25 I,4.8-5.3
-161,German-Style-Dunkel,15-17,16-25 I,4.8-5.3
-162,German-Style-Dunkelweizen,10-25,10-15 I,4.8-5.4
-163,German-Style-Dunkelweizen,10-25,10-15 I,4.8-5.4
-164,German-Style-Dunkelweizen,10-25,10-15 I,4.8-5.4
-165,German-Style-Hefeweizen,3-9 S,10-15 I,4.9-5.6
-166,German-Style-Hefeweizen,3-9 S,10-15 I,4.9-5.6
-167,German-Style-Hefeweizen,3-9 S,10-15 I,4.9-5.6
-168,German-Style-Helles,4-5.5,18-25 I,4.8-5.6
-169,German-Style-Helles,4-5.5,18-25 I,4.8-5.6
-170,German-Style-Helles,4-5.5,18-25 I,4.8-5.6
-171,German-Style-Kolsch,3-6 S,18-28 I,4.8-5.3
-172,German-Style-Kolsch,3-6 S,18-28 I,4.8-5.3
-173,German-Style-Kolsch,3-6 S,18-28 I,4.8-5.3
-174,german-style-heller-bock-maibock,4-9 S,20-38 I,6-8%  A
-175,german-style-heller-bock-maibock,4-9 S,20-38 I,6-8%  A
-176,german-style-heller-bock-maibock,4-9 S,20-38 I,6-8%  A
-177,German-Style-Pilsener,3-4 S,25-50 I,4.6-5.3
-178,German-Style-Pilsener,3-4 S,25-50 I,4.6-5.3
-179,German-Style-Pilsener,3-4 S,25-50 I,4.6-5.3
-180,German-Style-Schwarzbier,25-30,22-30 I,3.8-4.9
-181,German-Style-Schwarzbier,25-30,22-30 I,3.8-4.9
-182,German-Style-Schwarzbier,25-30,22-30 I,3.8-4.9
-183,German-Style-Weizenbock,4.5-3,15-35 I,7-9.5% 
-184,German-Style-Weizenbock,4.5-3,15-35 I,7-9.5% 
-185,German-Style-Weizenbock,4.5-3,15-35 I,7-9.5% 
-186,gluten-free,1-40 ,Varies-,Varies-
-187,gluten-free,1-40 ,Varies-,Varies-
-188,gluten-free,1-40 ,Varies-,Varies-
-189,Herb-and-Spice-Beer,5-50 ,5-40 IB,2.5-12%
-190,Herb-and-Spice-Beer,5-50 ,5-40 IB,2.5-12%
-191,Herb-and-Spice-Beer,5-50 ,5-40 IB,2.5-12%
-192,Honey-Beer,1-50 ,1-100 I,2.5-12%
-193,Honey-Beer,1-50 ,1-100 I,2.5-12%
-194,Honey-Beer,1-50 ,1-100 I,2.5-12%
-195,Imperial-India-Pale-Ale,2-9 S,65-100 ,7.6-10.
-196,Imperial-India-Pale-Ale,2-9 S,65-100 ,7.6-10.
-197,Imperial-India-Pale-Ale,2-9 S,65-100 ,7.6-10.
-198,Irish-Style-Dry-Stout,35-40,30-40 I,3.8-5% 
-199,Irish-Style-Dry-Stout,35-40,30-40 I,3.8-5% 
-200,Irish-Style-Dry-Stout,35-40,30-40 I,3.8-5% 
-201,irish-style-red,11-18,20-28 I,4.0-4.8
-202,irish-style-red,11-18,20-28 I,4.0-4.8
-203,irish-style-red,11-18,20-28 I,4.0-4.8
-204,New-England-IPA,3-7 S,30-50 I,6.3-7.5
-205,New-England-IPA,3-7 S,30-50 I,6.3-7.5
-206,New-England-IPA,3-7 S,30-50 I,6.3-7.5
-207,Pumpkin-Beer,5-50 ,5-70 IB,2.3-12%
-208,Pumpkin-Beer,5-50 ,5-70 IB,2.3-12%
-209,Pumpkin-Beer,5-50 ,5-70 IB,2.3-12%
-210,Robust-Porter,30-40,25-40 I,5.1-6.6
-211,Robust-Porter,30-40,25-40 I,5.1-6.6
-212,Robust-Porter,30-40,25-40 I,5.1-6.6
-213,Rye-Beer,1-40 ,Varies-,Varies-
-214,Rye-Beer,1-40 ,Varies-,Varies-
-215,Rye-Beer,1-40 ,Varies-,Varies-
-216,scotch-ale-wee-heavy,15-30,25-35 I,6.2-8% 
-217,scotch-ale-wee-heavy,15-30,25-35 I,6.2-8% 
-218,scotch-ale-wee-heavy,15-30,25-35 I,6.2-8% 
-219,Scottish-Style-Ale,6-19 ,9-25 IB,2.8-5.3
-220,Scottish-Style-Ale,6-19 ,9-25 IB,2.8-5.3
-221,Scottish-Style-Ale,6-19 ,9-25 IB,2.8-5.3
-222,Session-Beer,2-100,10-35 I,3.5-5.0
-223,Session-Beer,2-100,10-35 I,3.5-5.0
-224,Session-Beer,2-100,10-35 I,3.5-5.0
-225,Smoke-Beer,Varie,Varies-,Varies-
-226,Smoke-Beer,Varie,Varies-,Varies-
-227,Smoke-Beer,Varie,Varies-,Varies-
-228,Smoke-Porter,19-20,20-40 I,5.1-8.9
-229,Smoke-Porter,19-20,20-40 I,5.1-8.9
-230,Smoke-Porter,19-20,20-40 I,5.1-8.9
-231,Specialty-Beer,Varie,1-100 I,2.5-25%
-232,Specialty-Beer,Varie,1-100 I,2.5-25%
-233,Specialty-Beer,Varie,1-100 I,2.5-25%
-234,Vienna-Style-Lager,12-16,22-28 I,4.5-5.5
-235,Vienna-Style-Lager,12-16,22-28 I,4.5-5.5
-236,Vienna-Style-Lager,12-16,22-28 I,4.5-5.5
+beer_style,color,bitterness,alcohol
+Amber-Ale,11-18,25-45 I,4.4-6.1
+American-Amber-Lager,6-14 ,18-30 I,4.8-5.4
+American-Barley-Wine,11-18,60-100 ,8.5-12.
+American-Black-Ale,34-38,50-70 I,6-7.5% 
+American-Brett,Varie,Varies-,Varies-
+American-Brown-Ale,15-26,25-45 I,4.2-6.3
+American-Cream-Ale,2-5 S,10-22 I,4.3-5.7
+American-Imperial-Porter,39-40,35-50 I,7-12%  
+American-Imperial-Red-Ale,10-17,55-85 I,8.0-10.
+American-Imperial-Stout,39-40,50-80 I,7-12%  
+american-india-pale-ale,6-12 ,50-70 I,6.3-7.5
+American-Lager,2-4 S,5-19 IB,4.1-5.1
+American-Pale-Ale,6-14 ,30-50 I,4.4-5.4
+American-Sour,1-40 ,Varies-,Varies-
+American-Stout,40-45,35-60 I,5.7-8.9
+American-Style-Wheat-Wine-Ale,5-15 ,45-85 I,8.5-12.
+American-Wheat,2-10 ,10-35 I,3.5-5.6
+Baltic-Style-Porter,39-40,35-40 I,7.6-9.3
+Barrel-Aged-Beer,1-40 ,Varies-,Varies-
+Belgian-Style-Blonde-Ale,4-7 S,15-30 I,6.3-7.9
+Belgian-Style-Dubbel,16-36,20-35 I,6.3-7.6
+Belgian-Style-Flanders,12-25,5-18 IB,4.8-6.6
+Belgian-Style-Fruit-Lambic,Varie,15-21 I,5.0-8.9
+Belgian-Style-Golden-Strong-Ale,3-10 ,20-50 I,7-11%  
+belgian-style-lambic-gueuze,6-13 ,9-23 IB,5.0-8.9
+Belgian-Style-Pale-Ale,6-12 ,20-30 I,4-6%  A
+Belgian-Style-Quadrupel,8-20 ,25-50 I,7.2-11.
+Belgian-Style-Saison,3-7 S,20-38 I,4.4-6.8
+Belgian-Style-Tripel,4-7 S,20-45 I,7.1-10.
+belgian-style-wit,2-4 S,10-17 I,4.8-5.6
+Berliner-Style-Weisse,2-4 S,3-6 IBU,2.8-3.4
+Blonde-Ale,3-7 S,15-25 I,4.1-5.1
+Bohemian-Style-Pilsener,3-7 S,30-45 I,4.1-5.1
+British-Style-Barley-Wine-Ale,14-22,40-60 I,8.5-12%
+California-Common,8-15 ,35-45 I,4.6-5.7
+Chocolate-Beer,12-50,15-40 I,2.5-12%
+Coffee-Beer,4-50 ,15-45 I,2.5-12%
+Contemporary-Gose,3-9 S,5-15 IB,4.4-5.4
+English-Style-Bitter,5-12 ,20-35 I,3-4.2% 
+English-Style-Brown-Ale,12-17,15-25 I,4-5.5% 
+English-Style-Brown-Porter,20-35,20-30 I,4.5-6% 
+english-style-india-pale-ale,6-14 ,35-63 I,5-7%  A
+english-style-dark-mild,17-34,10-24 I,3.2-4% 
+English-Style-Oatmeal-Stout,20-50,20-40 I,3.8-6% 
+English-Style-Old-Ale,12-30,30-65 I,6.3-9.1
+English-Style-Pale-Ale-(ESB),5-16 ,20-40 I,4.5-5.5
+English-Style-Sweet-Stout-(Milk-Stout),40-40,15-25 I,3-6%  A
+European-Style-Export,3-6 S,23-29 I,5.1-6.1
+biere-de-garde,7-16 ,20-30 I,4.4-8% 
+fruit-field-or-flavored,5-50 ,5-45 IB,2.5-12%
+german-style-brownaltbier,11-19,25-52 I,4.6-5.6
+German-Style-Bock,20-30,20-30 I,6.3-7.5
+German-Style-Doppelbock,12-30,17-27 I,6.6-7.9
+German-Style-Dunkel,15-17,16-25 I,4.8-5.3
+German-Style-Dunkelweizen,10-25,10-15 I,4.8-5.4
+German-Style-Hefeweizen,3-9 S,10-15 I,4.9-5.6
+German-Style-Helles,4-5.5,18-25 I,4.8-5.6
+German-Style-Kolsch,3-6 S,18-28 I,4.8-5.3
+german-style-heller-bock-maibock,4-9 S,20-38 I,6-8%  A
+German-Style-Pilsener,3-4 S,25-50 I,4.6-5.3
+German-Style-Schwarzbier,25-30,22-30 I,3.8-4.9
+German-Style-Weizenbock,4.5-3,15-35 I,7-9.5% 
+gluten-free,1-40 ,Varies-,Varies-
+Herb-and-Spice-Beer,5-50 ,5-40 IB,2.5-12%
+Honey-Beer,1-50 ,1-100 I,2.5-12%
+Imperial-India-Pale-Ale,2-9 S,65-100 ,7.6-10.
+Irish-Style-Dry-Stout,35-40,30-40 I,3.8-5% 
+irish-style-red,11-18,20-28 I,4.0-4.8
+New-England-IPA,3-7 S,30-50 I,6.3-7.5
+Pumpkin-Beer,5-50 ,5-70 IB,2.3-12%
+Robust-Porter,30-40,25-40 I,5.1-6.6
+Rye-Beer,1-40 ,Varies-,Varies-
+scotch-ale-wee-heavy,15-30,25-35 I,6.2-8% 
+Scottish-Style-Ale,6-19 ,9-25 IB,2.8-5.3
+Session-Beer,2-100,10-35 I,3.5-5.0
+Smoke-Beer,Varie,Varies-,Varies-
+Smoke-Porter,19-20,20-40 I,5.1-8.9
+Specialty-Beer,Varie,1-100 I,2.5-25%
+Vienna-Style-Lager,12-16,22-28 I,4.5-5.5
+german-style-marzen-oktoberfest,4-15 ,18-25 I,5.1-6% 

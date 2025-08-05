@@ -1,0 +1,73 @@
+beer_style,color,bitterness,alcohol,style_id
+Amber Ale,Light brown,Moderate,Regular,1
+American Amber Lager,Gold,Moderate,Regular,2
+American Barley Wine,Light brown,High,Strong,3
+American Black Ale,Dark,High,Regular,4
+American Brown Ale,Light dark,Moderate,Light,5
+American Cream Ale,Gold,Low,Light,6
+American Imperial Porter,Dark,Moderate,Strong,7
+American Imperial Red Ale,Light brown,High,Regular,8
+American Imperial Stout,Dark,High,Strong,9
+american india pale ale,Gold,High,Regular,10
+American Lager,Gold,Low,Light,11
+American Pale Ale,Gold,Moderate,Regular,12
+American Stout,Dark,Moderate,Strong,13
+American Style Wheat Wine Ale,Gold,High,Strong,14
+American Wheat,Gold,Moderate,Regular,15
+Baltic Style Porter,Dark,Moderate,Strong,16
+Belgian Style Blonde Ale,Gold,Moderate,Regular,17
+Belgian Style Dubbel,Light dark,Moderate,Regular,18
+Belgian Style Flanders,Light brown,Low,Strong,19
+Belgian Style Golden Strong Ale,Gold,Moderate,Strong,20
+belgian style lambic gueuze,Gold,Low,Light,21
+Belgian Style Pale Ale,Gold,Moderate,Regular,22
+Belgian Style Quadrupel,Light brown,Moderate,Regular,23
+Belgian Style Saison,Gold,Moderate,Regular,24
+Belgian Style Tripel,Gold,Moderate,Regular,25
+belgian style wit,Gold,Low,Regular,26
+Berliner Style Weisse,Gold,Low,Regular,27
+Blonde Ale,Gold,Moderate,Light,28
+Bohemian Style Pilsener,Gold,Moderate,Light,29
+British Style Barley Wine Ale,Light brown,Moderate,Strong,30
+California Common,Light brown,Moderate,Regular,31
+Chocolate Beer,Dark,Moderate,Strong,32
+Coffee Beer,Light dark,Moderate,Strong,33
+Contemporary Gose,Gold,Low,Regular,34
+English Style Bitter,Gold,Moderate,Light,35
+English Style Brown Ale,Light brown,Moderate,Regular,36
+English Style Brown Porter,Light dark,Moderate,Regular,37
+english style india pale ale,Gold,Moderate,Regular,38
+english style dark mild,Light dark,Low,Light,39
+English Style Oatmeal Stout,Dark,Moderate,Strong,40
+English Style Old Ale,Light dark,Moderate,Regular,41
+English Style Pale Ale (ESB),Light brown,Moderate,Regular,42
+English Style Sweet Stout (Milk Stout),Dark,Moderate,Regular,43
+European Style Export,Gold,Moderate,Light,44
+biere de garde,Light brown,Moderate,Regular,45
+fruit field or flavored,Light dark,Moderate,Strong,46
+german style brownaltbier,Light brown,Moderate,Regular,47
+German Style Bock,Light dark,Moderate,Regular,48
+German Style Doppelbock,Light dark,Moderate,Regular,49
+German Style Dunkel,Light brown,Moderate,Regular,50
+German Style Dunkelweizen,Light brown,Low,Regular,51
+German Style Hefeweizen,Gold,Low,Strong,52
+German Style Helles,Gold,Moderate,Regular,53
+German Style Kolsch,Gold,Moderate,Regular,54
+german style heller bock maibock,Gold,Moderate,Strong,55
+German Style Pilsener,Gold,Moderate,Regular,56
+German Style Schwarzbier,Light dark,Moderate,Regular,57
+German Style Weizenbock,Gold,Moderate,Strong,58
+Herb and Spice Beer,Light dark,Moderate,Strong,59
+Honey Beer,Light dark,High,Strong,60
+Imperial India Pale Ale,Gold,High,Strong,61
+Irish Style Dry Stout,Dark,Moderate,Regular,62
+irish style red,Light brown,Moderate,Light,63
+New England IPA,Gold,Moderate,Regular,64
+Pumpkin Beer,Light dark,Moderate,Strong,65
+Robust Porter,Dark,Moderate,Light,66
+scotch ale wee heavy,Light dark,Moderate,Regular,67
+Scottish Style Ale,Light brown,Low,Regular,68
+Session Beer,Dark,Moderate,Regular,69
+Smoke Porter,Light brown,Moderate,Regular,70
+Vienna Style Lager,Light brown,Moderate,Regular,71
+german style marzen oktoberfest,Gold,Moderate,Light,72
