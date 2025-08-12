@@ -1,0 +1,51 @@
+beer_style,votes,review_overall,,Style,Votes,Rating,In_top_10,,,Style,Votes,Rating,Popular
+Stout - Imperial / Double,1954,"4,27",,Stout - Russian Imperial,9417,4.13,Yes,,,Stout - Russian Imperial,26953,"4,16",10
+Stout - Imperial / Double,1516,"4,24",,Stout - Russian Imperial,6238,4.22,Yes,,,IPA - Triple New England / Hazy,18104,"4,16",12
+IPA - Triple New England / Hazy,1231,"4,23",,Stout - Imperial / Double Pastry,4911,4.14,No,,,Stout - Imperial / Double Pastry,12887,"4,15",6
+Stout - Russian Imperial,6238,"4,22",,IPA - Imperial / Double,4896,4.13,No,,,Stout - Imperial / Double,10865,"4,18",9
+Stout - Russian Imperial,1284,"4,21",,Stout - Imperial / Double Pastry,3547,4.13,No,,,IPA - Imperial / Double New England / Hazy,10517,"4,17",6
+Stout - Imperial / Double,179,"4,19",,IPA - Imperial / Double,3497,4.13,No,,,IPA - Imperial / Double,8393,"4,13",2
+IPA - Triple New England / Hazy,3041,"4,19",,IPA - Triple New England / Hazy,3272,4.12,Yes,,,IPA - Quadruple,3015,"4,14",2
+Stout - Imperial / Double,1653,"4,19",,Stout - Russian Imperial,3257,4.15,Yes,,,Barleywine - Other,1395,"4,15",1
+Stout - Russian Imperial,1039,"4,19",,IPA - Triple New England / Hazy,3041,4.19,Yes,,,IPA - Triple,525,"4,14",1
+IPA - Imperial / Double New England / Hazy,1781,"4,18",,Stout - Russian Imperial,2975,4.13,Yes,,,Porter - Imperial / Double Baltic,165,"4,13",1
+IPA - Imperial / Double New England / Hazy,1299,"4,18",,Stout - Imperial / Double Pastry,2669,4.17,,,,,,,
+IPA - Imperial / Double New England / Hazy,1129,"4,18",,IPA - Imperial / Double New England / Hazy,2575,4.12,,,,,,,
+IPA - Triple New England / Hazy,862,"4,17",,IPA - Triple New England / Hazy,1954,4.14,,,,,,,
+Stout - Imperial / Double,1425,"4,17",,Stout - Imperial / Double,1954,4.27,,,,,,,
+Stout - Russian Imperial,659,"4,17",,IPA - Imperial / Double New England / Hazy,1921,4.17,,,,,,,
+IPA - Imperial / Double New England / Hazy,1921,"4,17",,IPA - Imperial / Double New England / Hazy,1812,4.16,,,,,,,
+Stout - Russian Imperial,1417,"4,17",,IPA - Imperial / Double New England / Hazy,1781,4.18,,,,,,,
+IPA - Triple New England / Hazy,283,"4,17",,Stout - Imperial / Double,1737,4.12,,,,,,,
+Stout - Imperial / Double Pastry,1327,"4,17",,IPA - Triple New England / Hazy,1724,4.15,,,,,,,
+Stout - Imperial / Double Pastry,2669,"4,17",,Stout - Imperial / Double,1653,4.19,,,,,,,
+IPA - Triple New England / Hazy,914,"4,16",,Stout - Imperial / Double,1596,4.13,,,,,,,
+Stout - Imperial / Double Pastry,412,"4,16",,IPA - Quadruple,1591,4.13,,,,,,,
+IPA - Imperial / Double New England / Hazy,1812,"4,16",,Stout - Imperial / Double,1516,4.24,,,,,,,
+Stout - Imperial / Double,611,"4,15",,Stout - Imperial / Double,1425,4.17,,,,,,,
+Barleywine - Other,1395,"4,15",,IPA - Quadruple,1424,4.15,,,,,,,
+IPA - Quadruple,1424,"4,15",,Stout - Russian Imperial,1417,4.17,,,,,,,
+IPA - Triple New England / Hazy,1724,"4,15",,Barleywine - Other,1395,4.15,,,,,,,
+Stout - Russian Imperial,3257,"4,15",,Stout - Imperial / Double Pastry,1327,4.17,,,,,,,
+Stout - Imperial / Double Pastry,4911,"4,14",,IPA - Imperial / Double New England / Hazy,1299,4.18,,,,,,,
+IPA - Triple New England / Hazy,1284,"4,14",,IPA - Triple New England / Hazy,1284,4.14,,,,,,,
+IPA - Triple,525,"4,14",,Stout - Russian Imperial,1284,4.21,,,,,,,
+IPA - Triple New England / Hazy,1114,"4,14",,IPA - Triple New England / Hazy,1231,4.23,,,,,,,
+IPA - Triple New England / Hazy,1954,"4,14",,IPA - Triple New England / Hazy,1214,4.13,,,,,,,
+Stout - Russian Imperial,9417,"4,13",,IPA - Triple New England / Hazy,1211,4.13,,,,,,,
+Porter - Imperial / Double Baltic,165,"4,13",,IPA - Imperial / Double New England / Hazy,1129,4.18,,,,,,,
+IPA - Imperial / Double,3497,"4,13",,IPA - Triple New England / Hazy,1114,4.14,,,,,,,
+IPA - Triple New England / Hazy,1214,"4,13",,Stout - Russian Imperial,1039,4.19,,,,,,,
+IPA - Imperial / Double,4896,"4,13",,IPA - Triple New England / Hazy,914,4.16,,,,,,,
+IPA - Triple New England / Hazy,1211,"4,13",,IPA - Triple New England / Hazy,862,4.17,,,,,,,
+IPA - Quadruple,1591,"4,13",,Stout - Russian Imperial,659,4.17,,,,,,,
+Stout - Russian Imperial,2975,"4,13",,Stout - Imperial / Double,611,4.15,,,,,,,
+Stout - Imperial / Double Pastry,3547,"4,13",,IPA - Triple,525,4.14,,,,,,,
+Stout - Imperial / Double,1596,"4,13",,Stout - Russian Imperial,499,4.12,,,,,,,
+Stout - Imperial / Double Pastry,21,"4,13",,Stout - Imperial / Double Pastry,412,4.16,,,,,,,
+Stout - Imperial / Double,194,"4,13",,IPA - Triple New England / Hazy,283,4.17,,,,,,,
+Stout - Russian Imperial,168,"4,12",,Stout - Imperial / Double,194,4.13,,,,,,,
+IPA - Imperial / Double New England / Hazy,2575,"4,12",,Stout - Imperial / Double,179,4.19,,,,,,,
+Stout - Russian Imperial,499,"4,12",,Stout - Russian Imperial,168,4.12,,,,,,,
+IPA - Triple New England / Hazy,3272,"4,12",,Porter - Imperial / Double Baltic,165,4.13,,,,,,,
+Stout - Imperial / Double,1737,"4,12",,Stout - Imperial / Double Pastry,21,4.13,,,,,,,
