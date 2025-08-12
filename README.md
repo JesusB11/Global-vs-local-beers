@@ -4,7 +4,7 @@
 
 ## 📌 Project Summary
 
-This project performs a comprehensive data analysis of beer reviews and ratings to identify the characteristics of popular and high-quality beers. The goal is to provide data-driven insights to local Spanish breweries, helping them to create a beer with features that are likely to be successful in the market. The analysis focused on the correlation between review features, with **Taste** being the most highly correlated feature according to Pearson's correlation coefficient. The most popular features were then linked to a specific style of beer. This project demonstrates the power of using data analysis to inform business strategy in the brewing industry.
+This project performs a comprehensive data analysis of beer reviews and ratings to identify the characteristics of popular and high-quality beers. The goal is to provide data-driven insights to local Spanish breweries, helping them to create a beer with features that are likely to be successful in the market. The analysis focused on the correlation between review features, with **Taste** and **Palate** identified as key indicators. The study found that popular beers share characteristics such as being **dark**, **bitter**, and **strong**, with a **different** and distinct character. This project demonstrates the power of using data analysis to inform business strategy in the brewing industry.
 
 ---
 
@@ -48,8 +48,8 @@ The project utilizes four datasets for analysis:
 3.  **Data Analysis**:
     -   Analysis was primarily conducted using Python and Power BI.
     -   **Pearson's correlation coefficient** was used to determine the relationships between the four review features (`taste`, `palate`, `aroma`, `appearance`).
-    -   **Taste** was identified as having the highest correlation score.
-    -   The most popular features were identified and mapped to specific beer styles.
+    -   **Taste** was identified as having a higher correlation score with the overall review than any other feature.
+    -   The analysis identified key popular beer characteristics as being **dark**, **bitter**, **strong**, and having a **distinct** flavor profile.
 
 ---
 
@@ -65,15 +65,15 @@ The project utilizes four datasets for analysis:
 
 ---
 
-## ✅ Future Enhancements:
+## 🚀 Future Enhancements:
 
 -   Conduct an analysis on why the Equilater beer failed in the Spanish market.
 -   Compare the success of Equilater with the success of microbreweries in the Basque country that have **Stout** beers as their flagship.
 
 ---
 
-## ✅ Links:
+## 🔗 Links:
 
--   **Presentation**: [https://docs.google.com/presentation/d/1ozVUopCIDAPglg9pb36o5dE_mnNvA9vefSYyn9z2y2M/edit?slide=id.g54dda1946d_6_332#slide=id.g54dda1946d_6_332](https://docs.google.com/presentation/d/1ozVUopCIDAPglg9pb36o5dE_mnNvA9vefSYyn9z2y2M/edit?slide=id.g54dda1946d_6_332#slide=id.g54dda1946d_6_332)
+-   **Presentation**: [https://docs.google.com/presentation/d/1ozVUopCIDAPglg9pb36o5dE_mnNvA9vefSYyn9z2y2M/edit?slide=id.g54dda1946d_6_332#slide=id.g54dda1946d_6_344](https://docs.google.com/presentation/d/1ozVUopCIDAPglg9pb36o5dE_mnNvA9vefSYyn9z2y2M/edit?slide=id.g54dda1946d_6_332#slide=id.g54dda1946d_6_344)
 -   **Kaggle Dataset**: [https://www.kaggle.com/datasets/thedevastator/1-5-million-beer-reviews-from-beer-advocate](https://www.kaggle.com/datasets/thedevastator/1-5-million-beer-reviews-from-beer-advocate)
 -   **Other Data Links**: `beeradvocate.com`, `craftbeer.com`, `untapped.com`, `damm.com`, `corporacionhijosderivera.com`, `heinekenespana.es`, `mahou-sanmiguel.com`, `ccc.es`
