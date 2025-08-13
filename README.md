@@ -4,8 +4,9 @@
 
 ## 📌 Project Summary
 
-This project performs a comprehensive data analysis of beer reviews and ratings to identify the characteristics of popular and high-quality beers. The goal is to provide data-driven insights to local Spanish breweries, helping them to create a beer with features that are likely to be successful in the market. The analysis focused on the correlation between review features, with **Taste** and **Palate** identified as key indicators. The study found that popular beers share characteristics such as being **dark**, **bitter**, and **strong**, with a **different** and distinct character. This project demonstrates the power of using data analysis to inform business strategy in the brewing industry.
+This project performs a comprehensive data analysis of beer reviews and ratings to identify the characteristics of popular and high-quality beers. The goal is to provide data-driven insights to local Spanish breweries, helping them to create a beer with features that are likely to be successful in the market. The analysis focused on the correlation between review features, with **Taste** and **Palate** identified as key indicators. The study found that popular beers share characteristics such as being **dark**, **bitter**, and **strong**, with a different and distinct character.
 
+A **Bayesian average** was applied as a weighted average to normalize the ratings, accounting for styles with few reviews versus those with a high number of reviews. This method ensured a fair and accurate representation of a beer's quality, regardless of its sample size. This project demonstrates the power of using data analysis to inform business strategy in the brewing industry.
 ---
 
 ## 📊 Dataset Overview
@@ -50,6 +51,7 @@ The project utilizes four datasets for analysis:
     -   **Pearson's correlation coefficient** was used to determine the relationships between the four review features (`taste`, `palate`, `aroma`, `appearance`).
     -   **Taste** was identified as having a higher correlation score with the overall review than any other feature.
     -   The analysis identified key popular beer characteristics as being **dark**, **bitter**, **strong**, and having a **distinct** flavor profile.
+    - The **Bayesian average** was applied to create a weighted average and to make a more fair annalysis.
 
 ---
 
@@ -67,9 +69,8 @@ The project utilizes four datasets for analysis:
 
 ## 🚀 Future Enhancements:
 
--   Conduct an analysis on why the Equilater beer failed in the Spanish market.
--   Compare the success of Equilater with the success of microbreweries in the Basque country that have **Stout** beers as their flagship.
-
+-   Market Research: Conduct a market study to analyze the performance of the 1906 Reserva Especial beer.
+-   Launch Strategy: Based on the findings, launch a new beer with similar characteristics to capitalize on the identified market opportunity.
 ---
 
 ## 🔗 Links:
